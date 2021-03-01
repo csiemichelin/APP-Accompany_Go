@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">My Nearby places</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_api_key">AIzaSyCYeh1hUUySqMg3Phb1Icv-IHPP_oBfgEk</string>
+
+    <string-array name="nearby_option">
+
+        <item>選擇想要去的場所</item>
+        <item>Bakery</item>
+        <item>Gym</item>
+        <item>Park</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>University</item>
+
+    </string-array>
+
+    <string-array name="identity">
+        <item>學生</item>
+        <item>老人</item>
+    </string-array>
+    <string name="select_region_dialog_title">選擇身份</string>
+
+    <string-array name="address">
+        <item>嘉義</item>
+        <item>台北</item>
+        <item>新北</item>
+        <item>桃園</item>
+        <item>臺中</item>
+        <item>臺南</item>
+        <item>高雄</item>
+        <item>新竹</item>
+        <item>苗栗</item>
+        <item>彰化</item>
+        <item>南投</item>
+        <item>雲林</item>
+        <item>屏東</item>
+        <item>宜蘭</item>
+        <item>花蓮</item>
+        <item>臺東</item>
+        <item>澎湖</item>
+        <item>金門</item>
+        <item>連江</item>
+        <item>基隆</item>
+    </string-array>
+    <string name="select_adress">居住縣市</string>
+
+    <string-array name="issue">
+        <item>傾聽我的故事</item>
+        <item>扶著我散步</item>
+        <item>陪我運動</item>
+        <item>聊天</item>
+        <item>下棋</item>
+    </string-array>
+    <string name="issue_title">伴老願望</string>
+
+</resources>

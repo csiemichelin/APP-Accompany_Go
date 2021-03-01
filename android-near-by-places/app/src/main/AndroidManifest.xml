@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.manjurulhoque.mynearbyplaces">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+
+
+    <application
+        android:name=".GlobalClass"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:launchMode="singleTask"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".hospital">
+        </activity>
+        <activity android:name=".old_fd" />
+        <activity android:name=".sd_fd" />
+        <activity
+            android:name=".my_Point"
+            android:hardwareAccelerated="false" />
+        <activity android:name=".mission_complete" />
+        <activity android:name=".old_mission_start" />
+        <activity android:name=".mission_start" />
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MapActivity" />
+        <activity android:name=".my_mission_list" />
+        <activity android:name=".student_issue" />
+        <activity android:name=".select_issue" />
+        <activity android:name=".Test" />
+        <activity android:name=".OlderActivity" />
+        <activity android:name=".StudentActivity" />
+        <activity
+            android:name=".FirstActivity"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity android:name=".activity.MainActivity" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCYeh1hUUySqMg3Phb1Icv-IHPP_oBfgEk" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <activity android:name=".activity.PlaceDetailsActivity" />
+        <activity android:name=".activity.PlaceOnMapActivity" />
+        <activity android:name=".activity.ShowPlacesOnMapActivity" />
+    </application>
+
+</manifest>

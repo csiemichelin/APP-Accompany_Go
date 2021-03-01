@@ -1,0 +1,5 @@
+1.下載xampp打開xampp開啟apache mysql
+2.把所有php複製到C:\xampp\htdocs路徑下
+3.更改所有php的密碼:fish91501
+4.更改api_key
+5.ctrl+r 將所有ip替換成自己的ipv4，即可使用(手機電腦網路都一樣)

@@ -32,11 +32,11 @@
 
 * 公益樹苗學生累積時數功能 (*學生端* )
 
-    <img src="https://i.imgur.com/UTQP19I.png" width="150" height="300"> <img src="https://i.imgur.com/Kh8Dgcs.png" width="150" height="300">
+    <img src="https://i.imgur.com/Kh8Dgcs.png" width="150" height="300"> <img src="https://i.imgur.com/UTQP19I.png" width="150" height="300"> 
 
 * 好友清單功能 (*左為老人端,右為學生端*)
     
-    <img src="https://i.imgur.com/yp86rLP.png" width="150" height="300"> <img src="https://i.imgur.com/dWB7fNH.png" width="150" height="300">
+    <img src="https://i.imgur.com/dWB7fNH.png" width="150" height="300"> <img src="https://i.imgur.com/yp86rLP.png" width="150" height="300">
 
 ## Demo影片網址
 * [Demo影片](https://www.youtube.com/watch?v=uAuA11ex7Hs&feature=youtu.be)

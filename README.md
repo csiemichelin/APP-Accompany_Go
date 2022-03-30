@@ -41,7 +41,7 @@
 ## Demo影片網址
 * [Demo影片](https://www.youtube.com/watch?v=uAuA11ex7Hs&feature=youtu.be)
 ## 使用方法
-* git clone HTTP
+* https://github.com/csiemichelin/Accompany_Go-APP.git
 * 下載xampp打開xampp開啟apache mysql
 * 把所有php複製到C:\xampp\htdocs路徑下
 * 更改所有php的密碼:fish91501

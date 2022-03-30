@@ -1,4 +1,4 @@
-# 伴老Accompany_Go
+# 伴老Accompany_Go APP
 ## 目錄
  - [產品介紹](#產品介紹)
  - [內容功能](#內容功能)
